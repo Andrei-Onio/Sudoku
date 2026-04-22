@@ -5,6 +5,6 @@
 
 extern int board[SIZE][SIZE];
 
-void printBoard();
+void printBoard(int original[SIZE][SIZE]);
 
 #endif
